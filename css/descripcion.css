@@ -1,0 +1,261 @@
+hr{
+    
+    height: 2px !important;
+    width: 80%;
+    margin-left: auto !important;
+    margin-right: auto !important;
+
+}
+
+.servicioHotel{
+    
+    width: 88%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+   margin-bottom: 15px;
+   margin-left: auto;
+   margin-right: auto;
+    box-shadow: 0 10px 10px rgba(128, 128, 128, 0.781);
+    border-radius: .8rem;
+    color: rgba(0, 0, 0, 0.671);
+    margin-top: 45px;
+    padding-bottom: 50px;
+}
+
+
+.servicioHotel h2{
+
+    font-size: 2.5rem;
+    margin: 1.5rem auto;
+
+}
+
+.servicioHotel p{
+   
+    font-size: 1.5rem;
+    
+
+}
+
+.li{
+    display: block;
+    margin-left: 2.5rem;
+    margin-top: 2rem;
+    font-size: 1.8rem;
+}
+
+
+.textIcon{
+    display: flex;
+    margin-left: 3rem;
+    margin-top: 2rem;
+}
+
+
+.alojamientoResponsable{
+display: flex;
+width: 90%;
+margin-left: auto;
+margin-right: auto;
+box-shadow: 0 10px 10px rgba(128, 128, 128, 0.781);
+background: #fff;
+border-radius: 1rem;
+  }
+
+
+  .alojamientoResponsable img{
+  
+    margin: .3rem;
+  }
+  
+  p{
+      margin: 1rem !important;
+  }
+ .divpRes{
+    color: rgba(0, 0, 0, 0.671);
+    font-size: 1.7rem;
+ }
+
+
+ .divimgRes{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+ }
+
+ .conoceMas{
+
+
+width: 90%;
+margin-left: auto;
+margin-right: auto;
+box-shadow: 0 10px 10px rgba(128, 128, 128, 0.781);
+background: #fff;
+margin-top: 2rem;
+
+ }
+
+
+ .conoceMas h3{
+margin-left: 1.5rem;
+font-size: 2.2rem;
+font-weight: 600;
+ }
+
+ .conoceMas p{
+    font-size: 2.2rem;
+ }
+
+
+ .verMasLi{
+     text-align: end;
+     margin: 2rem;
+     list-style: none;
+
+ }
+
+ .div-verMas{
+
+    display: none;
+   
+ }
+
+
+.detalles{
+    font-size: 1.4rem;
+}
+
+.reservar-btn{
+    display: block;
+    width: 45%;
+    height: 4rem;
+    font-weight: 500;
+    background-color: #2bc9f9;
+    font-size: 2.5rem;
+    border-radius: .8rem;
+    color: #fff;
+    margin: 2rem auto;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.botonModal{
+display: flex;
+margin: 3rem auto;
+width: 10rem;
+background-color: #2bc9f9;
+height: 4rem;
+border-radius: 2rem;
+color: #fff;
+font-size: 2rem;
+font-weight: 600;
+justify-content: center;
+align-items: center;
+
+}
+
+.imgLogo2{
+    width: 60%;
+display: block;
+margin: 1rem auto;
+}
+
+.h2Logo2{
+font-size: 2rem;
+text-align: center;
+font-weight: 600;
+color: rgba(22, 22, 22, 0.815);
+}
+
+.menn{
+    font-weight: 500; 
+    font-size: 1.8rem;
+}
+
+
+
+
+
+.input-date{
+display: flex;
+background-color: #00c1fbc5;
+color: white;
+height: 4rem;
+border-radius: 1rem;
+font-size: 1.5rem;
+padding: 1rem;
+margin: 1rem auto;
+font-weight: 900;
+}
+
+
+.form-reservaciones label{
+display: block;
+font-size: 1.5rem;
+font-weight: 600;
+text-align: center;
+
+}
+
+
+.nueva-select{
+    display: flex !important;
+    background-color: #00c1fbc5 !important;
+    color: white !important;
+    height: 4rem !important;
+    border-radius: 1rem !important;
+    font-size: 1.5rem !important;
+    padding: 1rem !important;
+    margin: 1rem auto !important;
+    font-weight: 900 !important;
+    text-align: center;
+    width: 80% !important;
+}
+
+.fechas{
+    display: flex;
+justify-content: space-around;
+}
+
+#name-hotel{
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+   
+}
+
+
+
+
+.rojoWith{
+    background: red;
+    letter-spacing: 0;
+    font-size: 1rem;
+    width: auto;
+}
+
+.with{
+    letter-spacing: 0;
+    font-size: 1rem;
+    width: auto;
+}
+
+
+#input-name {
+    background-color: transparent;
+    color: transparent;
+    width: 0%;
+    display: none;
+}
+
+#precio-hotel{
+    background-color: transparent;
+    color: transparent;
+    width: 0%;
+    display: none;
+}

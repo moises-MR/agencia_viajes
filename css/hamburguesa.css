@@ -1,0 +1,88 @@
+/*Hamburguesa*/
+.icono-menu{
+    margin: 40px 50px;
+    position: absolute;
+    z-index: 10;
+  }
+  
+  .imgH{
+  
+    vertical-align: top;
+    cursor: pointer;
+    margin-top: 1rem;
+    margin-right: 1rem;
+    position: absolute;
+    z-index: 11;
+    width: 4.5rem;
+  
+  }
+  
+
+
+  @media ( min-width: 768px ) {
+    .imgH{
+      display: none;
+    }
+      
+  }
+  .cont-menu{
+  
+    background-color: rgb(42, 42, 42);
+    box-shadow: 2px 0px 5px 2px rgb(66, 66, 66);
+    width: 100%;
+    height: 100vh;
+    transition: all .5s ease;
+    position: absolute;
+    z-index: 10;
+  
+  
+  }
+
+ /*estilos para agregar en javaScript*/
+
+.active{
+ 
+    display: none;
+}
+.opacity{
+    background-color: rgb(0, 0, 0,0.6);
+    transition: all .5s ease;
+
+}
+
+  /*estilos para el listado del menu*/
+  
+  .ulH{
+  
+    padding: 100px 0px 20px 0px;
+    list-style: none;
+  }
+  
+  .liH{
+  
+    color: white;
+    display: block;
+    font-size: 25px;
+    text-decoration: none;
+    padding: 10px 50px;
+  }
+
+
+  .cont-menu ul li:hover{
+      background-color: rgb(288, 288, 288);
+      color: rgb(42, 42, 42);
+  }
+
+
+  .menu-ham{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: flex-end;
+    position: absolute;
+ 
+    }
+  
+  
+  
+  

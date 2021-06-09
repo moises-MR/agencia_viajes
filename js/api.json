@@ -1,0 +1,913 @@
+[
+  {
+    "id": 1,
+    "titleHotel": "Barceló México Reforma",
+    "saliendoDe": "Hotel CDMX",
+    "thumbnailUrl": "../img/hoteles/cdmx/barcelo/barcelo1.webp",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 1,299",
+    "href" : "hotel.php?hotel=Barceló México Reforma"
+
+        
+  },
+  {
+    "id": 2,
+    "titleHotel": "Galeria Plaza Reforma",
+    "saliendoDe": "Hotel CDMX",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/310e1e9a-6cea-439b-b903-f8740c528453/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$1,099",
+    "href" : "hotel.php?hotel=Galeria Plaza Reforma"
+
+        
+  },
+  {
+    "id": 3,
+    "titleHotel": "Krystal Grand Insurgentes Sur",
+    "saliendoDe": "Hotel CDMX",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/e72d5a90-8b9f-4889-a09c-9c28647522a7/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 1,199",
+    "href" : "hotel.php?hotel=Krystal Grand Insurgentes Sur"
+
+        
+  },
+  {
+    "id": 4,
+    "titleHotel": "Mexico City Marriott Reforma Hotel",
+    "saliendoDe": "Hotel CDMX",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/c14eb673-03b7-49ec-bf01-4cef4e4deb9c/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 1,499",
+    "href" : "hotel.php?hotel=Mexico City Marriott Reforma Hotel"
+
+        
+  },
+  {
+    "id": 5,
+    "titleHotel": "Emporio Reforma",
+    "saliendoDe": "Hotel CDMX",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/1a8c18bc-192f-4ca2-a177-cd4ed6012fd9/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 1,099",
+    "href" : "hotel.php?hotel=Emporio Reforma"
+
+        
+  },
+  {
+    "id": 6,
+    "titleHotel": "Presidente Intercontinental Mexico City",
+    "saliendoDe": "Hotel CDMX",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/fb191ee3-6cb0-458d-8a11-87047fda1cfd/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 1,499",
+    "href" : "hotel.php?hotel=Presidente Intercontinental Mexico City"
+
+        
+  },
+  {
+    "id": 7,
+    "titleHotel": "Hotel Fontan Reforma",
+    "saliendoDe": "Hotel CDMX",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/cfa7f247-0e66-4902-970c-5b84121c8b7e/1120x700?op=fit",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 1,099",
+    "href" : "hotel.php?hotel=Hotel Fontan Reforma"
+
+        
+  },
+  {
+    "id": 8,
+    "titleHotel": "Hotel El Ejecutivo by Reforma Avenue",
+    "saliendoDe": "Hotel CDMX",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/029d2f91-1723-4193-895d-b8a11a824f61/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 1,099",
+    "href" : "hotel.php?hotel=Hotel El Ejecutivo by Reforma Avenue"
+
+        
+  },
+  {
+    "id": 9,
+    "titleHotel": "Marquis Reforma",
+    "saliendoDe": "Hotel CDMX",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/c02084d7-e5de-45a7-92cf-c368bcb18adf/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 1,499",
+    "href" : "hotel.php?hotel=Marquis Reforma"
+
+        
+  },
+  {
+    "id": 10,
+    "titleHotel": "Presidente InterContinental Santa Fe Mexico",
+    "saliendoDe": "Hotel CDMX",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/47c1ab19-6544-4564-a02a-4335b65e546f/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 1,099",
+    "href" : "hotel.php?hotel=Presidente InterContinental Santa Fe Mexico"
+    
+
+        
+  }
+  
+  
+  
+  
+
+
+
+  
+  
+  ,
+  {
+    "id": 11,
+    "titleHotel": "Barceló Gran Faro Los Cabos All Inclusive",
+    "saliendoDe": "Hotel en los Cabos",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/2bb806c3-a54a-43e9-97d6-1d01734ef548/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,099",
+    "href" : "hotel.php?hotel=Barceló Gran Faro Los Cabos All Inclusive"
+
+        
+  },
+  {
+    "id": 12,
+    "titleHotel": "Hyatt Ziva Los Cabos All Inclusive",
+    "saliendoDe": "Hotel en los Cabos",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/f83e8ae9-408e-4d6f-ba2b-97eec2bb6cc2/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 3,099",
+    "href" : "hotel.php?hotel=Hyatt Ziva Los Cabos All Inclusive"
+
+        
+  },
+  {
+    "id": 13,
+    "titleHotel": "Posada Real Los Cabos All Inclusive",
+    "saliendoDe": "Hotel en los Cabos",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/01697559-837e-4b09-b6b3-a13355f3b19c/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,099",
+    "href" : "hotel.php?hotel=Posada Real Los Cabos"
+
+        
+  },
+  {
+    "id": 14,
+    "titleHotel": "Dreams Los Cabos Suites Golf Resort & Spa",
+    "saliendoDe": "Hotel en los Cabos",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/3b5e0169-2d59-4a7b-a557-f6fa9df91ab5/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,499",
+    "href" : "hotel.php?hotel=Dreams Los Cabos Suites Golf Resort & Spa"
+
+        
+  },
+  {
+    "id": 15,
+    "titleHotel": "Hotel El Ganzo",
+    "saliendoDe": "Hotel en los Cabos",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/f8993e33-765d-46ce-bc18-0f06850e41d0/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 1,499",
+    "href" : "hotel.php?hotel=Hotel El Ganzo"
+
+        
+  },
+  {
+    "id": 16,
+    "titleHotel": "Hotel & Suites Las Palmas",
+    "saliendoDe": "Hotel en los Cabos",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/8bb10129-8e3f-4f3c-8c01-83ae80a1f28a/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$1,099",
+    "href" : "hotel.php?hotel=Hotel Suites Las Palmas"
+
+        
+  },
+  {
+    "id": 17,
+    "titleHotel": "City Express Plus Cabo San Lucas",
+    "saliendoDe": "Hotel en los Cabos",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/4c0d38a1-6e26-4ef5-b2b1-116f53d25c53/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 1,499",
+    "href" : "hotel.php?hotel=City Express Plus Cabo San Lucas"
+
+
+        
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "id": 18,
+    "titleHotel": "Princess Mundo Imperial Riviera Diamante Acapulco",
+    "saliendoDe": "Hotel en Acapulco",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/623c3720-a50f-42f3-a4be-e080a885a7f7/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,699",
+    "href" : "hotel.php?hotel=Princess Mundo Imperial Riviera Diamante Acapulco"
+        
+  },
+  {
+    "id": 19,
+    "titleHotel": "Dreams Acapulco Resort & Spa",
+    "saliendoDe": "Hotel en Acapulco",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/ed9439d3-17f6-45d0-a3f3-878c6d9c193b/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 1,499",
+    "href" : "hotel.php?hotel=Dreams Acapulco Resort & Spa"
+
+        
+  },
+  {
+    "id": 20,
+    "titleHotel": "Hotel Costa Azul",
+    "saliendoDe": "Hotel en Acapulco",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/310147ff-4e6e-465f-81f9-6a19af2f2d3a/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 1,299",
+    "href" : "hotel.php?hotel=Hotel Costa Azul"
+
+        
+  },
+  {
+    "id": 21,
+    "titleHotel": "Palacio Mundo Imperial",
+    "saliendoDe": "Hotel en Acapulco",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/01697559-837e-4b09-b6b3-a13355f3b19c/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,899",
+    "href" : "hotel.php?hotel=Palacio Mundo Imperial"
+
+        
+  },
+  {
+    "id": 22,
+    "titleHotel": "Emporio Acapulco",
+    "saliendoDe": "Hotel en Acapulco",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/0106fd3d-845a-44b2-9a46-f62126a40c98/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 1,399",
+    "href" : "hotel.php?hotel=Emporio Acapulco"
+
+        
+  },
+  {
+    "id": 23,
+    "titleHotel": "Hotel Playa Suites Acapulco",
+    "saliendoDe": "Hotel en Acapulco",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/ab69fcb9-4fa1-4f0b-9280-d054d3ff8e01/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,999",
+    "href" : "hotel.php?hotel=Hotel Playa Suites Acapulco"
+
+        
+  },
+  {
+    "id": 24,
+    "titleHotel": "Romano Palace Acapulco",
+    "saliendoDe": "Hotel en Acapulco",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/a2edaa1e-e516-4024-9af9-4190003fdb64/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 1,399",
+    "href" : "hotel.php?hotel=Romano Palace Acapulco"
+
+        
+  },
+  {
+    "id": 25,
+    "titleHotel": "Las Torres Gemelas Acapulco",
+    "saliendoDe": "Hotel en Acapulco",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/01697559-837e-4b09-b6b3-a13355f3b19c/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 999",
+    "href" : "hotel.php?hotel=Las Torres Gemelas Acapulco"
+
+        
+  },
+  {
+    "id": 26,
+    "titleHotel": "Krystal Beach Acapulco",
+    "saliendoDe": "Hotel en Acapulco",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/0088a6fe-36e3-4968-aac1-3d7d47b6d886/422x0?op=FIT&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,199",
+    "href" : "hotel.php?hotel=Krystal Beach Acapulco"
+
+        
+  },
+  {
+    "id": 27,
+    "titleHotel": "Fiesta Americana Acapulco Villas",
+    "saliendoDe": "Hotel en Acapulco",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/a4307797-e20b-43f2-b52c-b3df58ba903a/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,799",
+    "href" : "hotel.php?hotel=Fiesta Americana Acapulco Villas"
+
+        
+  },
+
+
+
+
+
+
+
+
+
+
+  {
+    "id": 28,
+    "titleHotel": "Buenaventura Grand Beach Resort All Inclusive",
+    "saliendoDe": "Hotel en pto Vallarta",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/024e96c5-a9e6-4c77-ad05-659aab390178/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 1,699",
+    "href" : "hotel.php?hotel=Buenaventura Grand Beach Resort All Inclusive"
+
+        
+  },
+  {
+    "id": 29,
+    "titleHotel": "Krystal Puerto Vallarta",
+    "saliendoDe": "Hotel en pto Vallarta",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/5ccd4ba5-0c1a-44dd-8e82-1865eaa46f6b/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 1,699",
+    "href" : "hotel.php?hotel=Krystal Puerto Vallarta"
+
+        
+  },
+  {
+    "id": 30,
+    "titleHotel": "Sheraton Buganvilias Resort & Convention Center",
+    "saliendoDe": "Hotel en pto Vallarta",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/f049c3fd-9e10-43a6-93e9-e0d46f3bffb6/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,399",
+    "href" : "hotel.php?hotel=Sheraton Buganvilias Resort & Convention Center"
+
+        
+  },
+  {
+    "id": 31,
+    "titleHotel": "Sunset Plaza Beach Resort & Spa",
+    "saliendoDe": "Hotel en pto Vallarta",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/b536b2f9-cb3c-4414-a94e-23f31d7d7bdd/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,299",
+    "href" : "hotel.php?hotel=Sunset Plaza Beach Resort & Spa"
+
+        
+  },
+  {
+    "id": 32,
+    "titleHotel": "Fiesta Americana Puerto Vallarta All Inclusive & Spa",
+    "saliendoDe": "Hotel en pto Vallarta",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/d43f3568-a1c2-45fe-ae7c-9dc4ce35a41b/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,499",
+    "href" : "hotel.php?hotel=Fiesta Americana Puerto Vallarta All Inclusive & Spa"
+
+        
+  },
+  {
+    "id": 33,
+    "titleHotel": "Hotel Mio Vallarta",
+    "saliendoDe": "Hotel en pto Vallarta",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/0af53869-3b7f-49e1-8022-8efe24c7464b/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 1,299",
+    "href" : "hotel.php?hotel=Hotel Mio Vallarta"
+
+        
+  },
+  {
+    "id": 34,
+    "titleHotel": "Fiesta Inn Puerto Vallarta Isla",
+    "saliendoDe": "Hotel en pto Vallarta",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/aea5270a-23ce-4df9-b65c-c593b3154c3f/422x0?op=FIT&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 1,699",
+    "href" : "hotel.php?hotel=Fiesta Inn Puerto Vallarta Isla"
+
+        
+  },
+  {
+    "id": 35,
+    "titleHotel": "The Hacienda at Hilton Puerto Vallarta",
+    "saliendoDe": "Hotel en pto Vallarta",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/d540988a-805e-489b-8611-f165f1cff53d/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,499",
+    "href" : "hotel.php?hotel=The Hacienda at Hilton Puerto Vallarta"
+
+        
+  },
+  {
+    "id": 36,
+    "titleHotel": "Crown Paradise Golden All Inclusive - Adults Only",
+    "saliendoDe": "Hotel en pto Vallarta",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/1c9a9c74-85e2-4bfa-8275-e40869211101/1120x700?op=fit",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,399",
+    "href" : "hotel.php?hotel=Crown Paradise Golden All Inclusive - Adults Only"
+
+        
+  }  
+  ,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "id": 38,
+    "titleHotel": "Riu Playacar",
+    "saliendoDe": "Hotel en Playa del carmen",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/74df8e31-cef7-464c-ae5a-e603aecd15eb/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 3,499",
+    "href" : "hotel.php?hotel=Riu Playacar"
+
+        
+  },
+  {
+    "id": 39,
+    "titleHotel": "Sandos Playacar All Inclusive",
+    "saliendoDe": "Hotel en Playa del carmen",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/44eee8bb-092c-46f8-9654-dbaac40da895/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,899",
+    "href" : "hotel.php?hotel=Sandos Playacar All Inclusive"
+
+        
+  },
+  {
+    "id": 40,
+    "titleHotel": "The Reef Playacar Resort & Spa - All Inclusive",
+    "saliendoDe": "Hotel en Playa del carmen",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/4aef8ede-5e26-4fa8-8319-0c87f5fd6cbc/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,399",
+    "href" : "hotel.php?hotel=The Reef Playacar Resort & Spa - All Inclusive"
+
+        
+  },
+  {
+    "id": 41,
+    "titleHotel": "Allegro Playacar All Inclusive",
+    "saliendoDe": "Hotel en Playa del carmen",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/e2576bf1-f832-4566-a3da-8191cbafa5fc/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,399",
+    "href" : "hotel.php?hotel=Allegro Playacar All Inclusive"
+
+        
+  },
+  {
+    "id": 42,
+    "titleHotel": "Grand Riviera Princess All Suites Resort & Spa",
+    "saliendoDe": "Hotel en Playa del carmen",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/e9eeaf66-2721-4cf4-a5be-a1b819371f46/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,499",
+    "href" : "hotel.php?hotel=Grand Riviera Princess All Suites Resort & Spa"
+
+        
+  },
+  {
+    "id": 43,
+    "titleHotel": "Ocean Riviera Paradise El Beso - Adults Only",
+    "saliendoDe": "Hotel en Playa del carmen",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/771caaea-244c-4501-b8b7-4dbf29ea8483/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,499",
+    "href" : "hotel.php?hotel=Ocean Riviera Paradise El Beso - Adults Only"
+
+        
+  },
+  {
+    "id": 44,
+    "titleHotel": "Riu Lupita All Inclusive",
+    "saliendoDe": "Hotel en Playa del carmen",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/1782c33d-456d-4603-9495-5838e7b60d9d/422x0?op=FIT&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,099",
+    "href" : "hotel.php?hotel=Riu Lupita All Inclusive"
+
+        
+  },
+  {
+    "id": 45,
+    "titleHotel": "Ocean Riviera Paradise All Inclusive",
+    "saliendoDe": "Hotel en Playa del carmen",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/bee8c5a7-a4e8-447a-9be0-1794c2c0b8d0/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,199",
+    "href" : "hotel.php?hotel=Ocean Riviera Paradise All Inclusive"
+
+        
+  },
+  {
+    "id": 46,
+    "titleHotel": "Riu Palace Mexico All Inclusive",
+    "saliendoDe": "Hotel en Playa del carmen",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/c6b22148-0fb3-46a3-951b-99cf10cf9b4d/422x0?op=FIT&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,499",
+    "href" : "hotel.php?hotel=Riu Palace Mexico All Inclusive"
+
+        
+  },
+  {
+    "id": 47,
+    "titleHotel": "The Royal Haciendas Resort & Spa All Inclusive",
+    "saliendoDe": "Hotel en Playa del carmen",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/e6107f5c-8fab-4a8e-8195-d77ca89b4f6e/422x0?op=FIT&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,699",
+    "href" : "hotel.php?hotel=The Royal Haciendas Resort & Spa"
+
+        
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "id": 48,
+    "titleHotel": "Pueblo Bonito Emerald Bay Resort & Spa All Inclusive",
+    "saliendoDe": "Hotel en Mazatlan",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/9162f2d1-394a-4cd4-a54f-4d2e159b5942/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,299",
+    "href" : "hotel.php?hotel=Pueblo Bonito Emerald Bay Resort & Spa"
+
+     
+
+  },
+  {
+    "id": 49,
+    "titleHotel": "Ocean View Beach Hotel",
+    "saliendoDe": "Hotel en Mazatlan",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/94d92261-8f60-4fa6-9151-6459b4a955e5/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 1,699",
+    "href" : "hotel.php?hotel=Ocean View Beach Hotel"
+
+     
+
+  },
+  {
+    "id": 50,
+    "titleHotel": "Holiday Inn Resort Mazatlan",
+    "saliendoDe": "Hotel en Mazatlan",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/959cb7eb-8e42-4986-8acc-a2f0a48d4d40/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 1,999",
+    "href" : "hotel.php?hotel=Holiday Inn Resort Mazatlan"
+
+     
+
+  },
+  {
+    "id": 51,
+    "titleHotel": "El Cid Castilla Beach Hotel All Inclusive",
+    "saliendoDe": "Hotel en Mazatlan",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/50511030-9b0e-4493-951f-8e8c305a8227/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,299",
+    "href" : "hotel.php?hotel=El Cid Castilla Beach Hotel"
+
+     
+
+  },
+  {
+    "id": 52,
+    "titleHotel": "Marena Suites and Apartments",
+    "saliendoDe": "Hotel en Mazatlan",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/7af9d6dc-611c-496c-b9c5-de7f0bdfe16e/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 1,799",
+    "href" : "hotel.php?hotel=Marena Suites and Apartments"
+
+     
+
+  },
+  {
+    "id": 53,
+    "titleHotel": "El Cid El Moro Beach Hote All Inclusive",
+    "saliendoDe": "Hotel en Mazatlan",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/0df86d18-9023-4e3f-9e64-5802842a6eb8/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,299",
+    "href" : "hotel.php?hotel=El Cid El Moro Beach Hotel"
+
+     
+
+  },
+  {
+    "id": 54,
+    "titleHotel": "The Inn at Mazatlan",
+    "saliendoDe": "Hotel en Mazatlan",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/1fe4a408-40f7-488e-a272-cfbbc77a8d16/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 1,899",
+    "href" : "hotel.php?hotel=The Inn at Mazatlan"
+
+     
+
+  },
+  {
+    "id": 55,
+    "titleHotel": "Royal Villas Resort",
+    "saliendoDe": "Hotel en Mazatlan",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/e5a1c33d-be9e-44f0-b93e-73840aebbb39/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 1,799",
+    "href" : "hotel.php?hotel=Royal Villas Resort"
+
+     
+
+  },
+  {
+    "id": 56,
+    "titleHotel": "El Cid Marina Beach Hotel",
+    "saliendoDe": "Hotel en Mazatlan",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/46f52595-57ad-4f40-94af-dd3c777574ea/422x0?op=FIT&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 1,999",
+    "href" : "hotel.php?hotel=El Cid Marina Beach Hotel"
+
+     
+
+  },
+  {
+    "id": 57,
+    "titleHotel": "Park Royal Beach Mazatlán All Inclusive",
+    "saliendoDe": "Hotel en Mazatlan",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/9e67e736-0b1a-4584-8390-d4fccd6974da/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,099",
+    "href" : "hotel.php?hotel=Park Royal Beach Mazatlán"
+
+     
+
+  }
+
+
+
+
+
+
+
+
+  ,
+  {
+    "id": 58,
+    "titleHotel": "Seadust Cancun Family Resort All Inclusive",
+    "saliendoDe": "Hotel en Cancun",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/7c2d6ad9-dfe3-47e0-9848-2221940a1a3a/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,699",
+    "href" : "hotel.php?hotel=Seadust Cancun Family Resort"
+
+     
+
+  },
+  {
+    "id": 59,
+    "titleHotel": "Emporio Cancún All Inclusive",
+    "saliendoDe": "Hotel en Cancun",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/6c434ec9-c3b3-438d-b038-6cd268079587/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,599",
+    "href" : "hotel.php?hotel=Emporio Cancún"
+
+     
+
+  },
+  {
+    "id": 60,
+    "titleHotel": "Cancun Bay Hotel",
+    "saliendoDe": "Hotel en Cancun",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/b8dce511-c5b0-406a-adfa-e42346ac9f22/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,399",
+    "href" : "hotel.php?hotel=Cancun Bay Hotel"
+
+     
+
+  },
+  {
+    "id": 61,
+    "titleHotel": "Krystal Cancun All Inclusive",
+    "saliendoDe": "Hotel en Cancun",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/ce438c39-292f-4b7c-8c66-92481091bd75/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,899",
+    "href" : "hotel.php?hotel=Krystal Cancun"
+
+     
+
+  },
+  {
+    "id": 62,
+    "titleHotel": "Oleo Cancun Playa All Inclusive Boutique Resort",
+    "saliendoDe": "Hotel en Cancun",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/8db5be09-ef04-4d51-b735-55b5ea28ed48/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,899",
+    "href" : "hotel.php?hotel=Oleo Cancun Playa All Inclusive Boutique Resort"
+
+     
+
+  },
+  {
+    "id": 63,
+    "titleHotel": "Grand Oasis Cancun All Inclusive",
+    "saliendoDe": "Hotel en Cancun",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/0ed31287-b19d-4f7a-9661-cde12a7d4067/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 3,299",
+    "href" : "hotel.php?hotel=Grand Oasis Cancun All Inclusive"
+
+     
+
+  },
+  {
+    "id": 64,
+    "titleHotel": "Riu Cancun All Inclusive",
+    "saliendoDe": "Hotel en Cancun",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/f5189ed3-413a-4df9-b192-63a21dcfe556/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 3,099",
+    "href" : "hotel.php?hotel=Riu Cancun"
+
+     
+
+  },
+  {
+    "id": 65,
+    "titleHotel": "Dreams Sands Cancún Resort & Spa All Inclusive",
+    "saliendoDe": "Hotel en Cancun",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/c7de20b8-d231-4bc7-9005-388ea0a91e86/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,299",
+    "href" : "hotel.php?hotel=Dreams Sands Cancún Resort & Spa"
+
+     
+
+  },
+  {
+    "id": 66,
+    "titleHotel": "Oasis Palm",
+    "saliendoDe": "Hotel en Cancun",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/71a9e636-4e9c-4127-b8ae-dce78db37d1b/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,199",
+    "href" : "hotel.php?hotel=Oasis Palm"
+
+     
+
+  },
+  {
+    "id": 67,
+    "titleHotel": "Flamingo Cancun Resort",
+    "saliendoDe": "Hotel en Cancun",
+    "thumbnailUrl": "https://media.staticontent.com/media/pictures/24d75266-3134-4de1-b831-6a148e19e0a0/853x0?op=NONE&enlarge=false&gravity=ce_0_0&quality=80&dpr=1",
+    "precioPor": "Precio por noche",
+    "moneda" : "MXN",
+    "precio" : "$ 2,099",
+    "href" : "hotel.php?hotel=Flamingo Cancun Resort"
+
+     
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]

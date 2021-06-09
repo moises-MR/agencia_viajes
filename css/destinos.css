@@ -1,0 +1,322 @@
+html{
+   
+    font-size: 62.5%;
+    box-sizing: border-box;
+ /*  scroll-snap-type: y mandatory; */ /*scroll snap*/
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+  button{
+    border: none;
+    
+  }
+
+  body{
+    padding: 0;
+    margin: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    line-height: 1.5;
+    background-color: #eee !important; 
+    font-family: 'Montserrat', sans-serif;
+    /* <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300&display=swap" rel="stylesheet">  */
+
+  }
+
+  input{
+    border: none;
+    
+  }
+
+
+  a{
+    text-decoration: none !important;
+    color: rgba(0, 0, 0, 0.787) !important;
+  }
+
+  /* Footer*/
+
+  .img-icons-text{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+  }
+
+  .icons-general{
+      width: 100%;
+      display: flex;
+      justify-content: space-evenly;
+      align-items: center;
+      margin: 2rem 0;
+  }
+
+
+  .icon{
+      width: 60px;
+  
+
+  }
+
+  .text-icon{
+      margin: 0;
+      font-weight: 200;
+      margin-top: 1.2rem;
+  }
+
+  .logo{
+width: 100%;
+height: auto;
+margin: 2rem 0;
+display: flex;
+justify-content: center;
+  }
+
+  .logo-img{
+      width: 20rem;
+      height: 5.6rem;
+  }
+
+  /**/
+
+
+  .img-xcaret{
+
+    width: 80%;
+    display: block;
+    margin: 1.5rem auto;
+    box-shadow: 0 10px 10px rgba(128, 128, 128, 0.781);
+    border-radius: 1rem;
+  }
+
+
+
+  .carrou{
+    display: block;
+    width: 95%;
+    margin: 2rem auto;
+    border-radius: .8rem;
+
+  }
+
+
+  #promoFechasH2,#promoVuelos{
+   margin-top: 2rem;
+   margin-left: 2.5rem;
+   font-weight: 600;
+  font-size: 2rem;
+
+  }
+
+
+  .div-fechas{
+
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    background-color: #fff;
+    width: 80%;
+    border-radius: 1rem;
+    padding: 1rem;
+  
+  }
+
+
+  .div-fechas img{
+    width: 4rem;
+    margin-left: 2rem;
+  
+  }
+
+  .fechas-disponibles{
+    display: flex;
+    margin-top: 1rem;
+    align-items: center;
+  }
+
+
+.fechas-disponibles p{
+  font-size: 1.5rem;
+}
+
+
+.iconsService{
+  width: 4rem;
+height: 4.2rem;
+}
+
+.modal-reservaciones{
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+}
+
+
+.modal-div{
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+.footer-mis-reservaciones{
+  width: 100%;
+  height: 20rem;
+  background-color: #eee;
+}
+
+
+.titleMis{
+  text-align: center;
+  font-size: 2rem;
+font-weight: 600;
+margin-bottom: 2rem;
+}
+
+
+
+.title-alerta-sin-resrva{
+display: flex;
+flex-direction: column;
+width: 80%;
+background-color: #fff;
+margin: 2rem auto;
+border-radius: 1rem;
+padding: 2rem;
+
+
+}
+
+
+.title-alerta-sin-resrva h2{
+  text-align: center;
+  margin-bottom: 2rem;
+  font-weight: 600;
+}
+
+.div-person{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+
+.title-alerta-sin-resrva .div-person p{
+  font-size: 1.5rem;
+  margin: .5rem 0;
+}
+
+.bajar{
+font-size: 1.4rem;
+
+}
+
+.propiedad{
+  font-weight: 700;
+ font-size: 1.5rem;
+}
+
+
+
+.rojoWith{
+  background: red !important;
+  letter-spacing: 0 !important;
+  font-size: 1rem !important;
+  width: auto !important;
+}
+
+.with{
+  letter-spacing: 0 !important;
+  font-size: 1rem !important; 
+  width: auto !important;
+}
+
+.modal-body{
+  font-size: 2rem;
+}
+
+
+.debito {
+
+display: flex;
+flex-direction: column;
+align-items: center;
+display: none;
+transition: all .5s;
+}
+.credito{
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  display: none;
+  transition: all .5s;
+  }
+
+.debito input{
+
+  background-color: #eee;
+  margin: .5rem;
+padding: 1rem;
+border-radius: 1rem;
+}
+
+
+.realizar-pago{
+  display: block;
+margin-left: auto;
+width: auto;
+padding: 1.2rem;
+border-radius: 1rem;
+font-size: 1.5rem;
+font-weight: 600;
+}
+
+
+.tiene-card{
+  display: flex;
+  align-items: center;
+}
+
+
+
+.contenedora{
+  position: absolute;
+ 
+top: 60%;
+right: 0%;
+width: 100%;
+height: 100vh;
+background-color: rgba(0, 0, 0, 0.616);
+display: flex;
+justify-content: center;
+align-items: center;
+z-index: 99;
+display: none;
+}
+
+
+.cargando{
+  position: absolute;
+width: 10rem !important;
+height: 10rem !important;
+}
+
+
+
+ .input-personas{
+  display: block;
+  margin-top: 1.5rem;
+  width: 90%;
+  height: 3rem;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  
+ }
+ 

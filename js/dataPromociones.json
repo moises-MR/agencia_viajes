@@ -1,0 +1,147 @@
+[
+    
+{
+"id" : 1,
+"titleHotel" : "Royal Solaris Cancun Resort, Marina & Spa All Inclusive",
+"promoFechasH2" : "Fechas Disponibles",
+"imgPromoCalendario" : "../img/icons/calendario.png",
+"imgPromoPersonas" : "../img/icons/2personas.png",
+"promoPFechas" : "Del 10 de Mayo al 5 de Julio.",
+"promoPPersonas" : "2 Personas.",
+"promoVuelos" : "Vuelos",
+"imgPromoAerolinea" : "../img/icons/vivaaerobus.png",
+"aerolineaP" : "Vuelos Redondos a cargo de VIVA AEROBUS"
+
+
+},
+{
+    "id" : 2,
+    "titleHotel" : "Hotel Xcaret Mexico ",
+    "promoFechasH2" : "Fechas Disponibles",
+    "imgPromoCalendario" : "../img/icons/calendario.png",
+    "imgPromoPersonas" : "../img/icons/2personas.png",
+    "promoPFechas" : "Del 10 de Mayo al 5 de Julio.",
+    "promoPPersonas" : "2 Personas.",
+    "promoVuelos" : "Vuelos",
+    "imgPromoAerolinea" : "../img/icons/vivaaerobus.png",
+    "aerolineaP" : "Vuelos Redondos a cargo de VIVA AEROBUS"
+    
+    
+},
+{
+    "id" : 3,
+    "titleHotel" : "Riu Vallarta",
+    "promoFechasH2" : "Fechas Disponibles",
+    "imgPromoCalendario" : "../img/icons/calendario.png",
+    "imgPromoPersonas" : "../img/icons/2personas.png",
+    "promoPFechas" : "Del 1 de Mayo al 1 de Julio.",
+    "promoPPersonas" : "2 Personas.",
+    "promoVuelos" : "Vuelos",
+    "imgPromoAerolinea" : "../img/icons/aeromexico.png",
+    "aerolineaP" : "Vuelos Redondos a cargo de AEROMEXICO"
+    
+    
+},
+{
+    "id" : 4,
+    "titleHotel" : "El Cid El Moro Beach Hotel",
+    "promoFechasH2" : "Fechas Disponibles",
+    "imgPromoCalendario" : "../img/icons/calendario.png",
+    "imgPromoPersonas" : "../img/icons/2personas.png",
+    "promoPFechas" : "Del 1 de Junio al 15 de Julio.",
+    "promoPPersonas" : "2 Personas.",
+    "promoVuelos" : "Vuelos",
+    "imgPromoAerolinea" : "../img/icons/vivaaerobus.png",
+    "aerolineaP" : "Vuelos Redondos a cargo de VIVA AEROBUS"
+    
+    
+},
+{
+    "id" : 5,
+    "titleHotel" : "Krystal Cancun",
+    "promoFechasH2" : "Fechas Disponibles",
+    "imgPromoCalendario" : "../img/icons/calendario.png",
+    "imgPromoPersonas" : "../img/icons/2personas.png",
+    "promoPFechas" : "Del 10 de Mayo al 1 de Julio.",
+    "promoPPersonas" : "2 Personas.",
+    "promoVuelos" : "Vuelos",
+    "imgPromoAerolinea" : "../img/icons/aeromexico.png",
+    "aerolineaP" : "Vuelos Redondos a cargo de AEROMEXICO"
+    
+    
+},
+
+{
+    "id" : 6,
+    "titleHotel" : "Riu Playacar",
+    "promoFechasH2" : "Fechas Disponibles",
+    "imgPromoCalendario" : "../img/icons/calendario.png",
+    "imgPromoPersonas" : "../img/icons/2personas.png",
+    "promoPFechas" : "Del 10 de Mayo al 1 de Julio.",
+    "promoPPersonas" : "2 Personas.",
+    "promoVuelos" : "Vuelos",
+    "imgPromoAerolinea" : "../img/icons/vivaaerobus.png",
+    "aerolineaP" : "Vuelos Redondos a cargo de VIVA AEROBUS"
+    
+    
+},{
+    "id" : 7,
+    "titleHotel" : "Buenaventura Grand Beach Resort All Inclusive",
+    "promoFechasH2" : "Fechas Disponibles",
+    "imgPromoCalendario" : "../img/icons/calendario.png",
+    "imgPromoPersonas" : "../img/icons/2personas.png",
+    "promoPFechas" : "Del 10 de Mayo al 15 de Julio.",
+    "promoPPersonas" : "2 Personas.",
+    "promoVuelos" : "Vuelos",
+    "imgPromoAerolinea" : "../img/icons/vivaaerobus.png",
+    "aerolineaP" : "Vuelos Redondos a cargo de VIVA AEROBUS"
+    
+    
+},{
+    "id" : 7,
+    "titleHotel" : "Buenaventura Grand Beach Resort All Inclusive",
+    "promoFechasH2" : "Fechas Disponibles",
+    "imgPromoCalendario" : "../img/icons/calendario.png",
+    "imgPromoPersonas" : "../img/icons/2personas.png",
+    "promoPFechas" : "Del 30 de Mayo al 31 de Julio.",
+    "promoPPersonas" : "2 Personas.",
+    "promoVuelos" : "Vuelos",
+    "imgPromoAerolinea" : "../img/icons/aeromexico.png",
+    "aerolineaP" : "Vuelos Redondos a cargo de AEROMEXICO"
+    
+    
+},{
+    "id" : 7,
+    "titleHotel" : "",
+    "promoFechasH2" : "Fechas Disponibles",
+    "imgPromoCalendario" : "../img/icons/calendario.png",
+    "imgPromoPersonas" : "../img/icons/2personas.png",
+    "promoPFechas" : "Del 1 de Mayo al 1 de Julio.",
+    "promoPPersonas" : "2 Personas.",
+    "promoVuelos" : "Vuelos",
+    "imgPromoAerolinea" : "../img/icons/aeromexico.png",
+    "aerolineaP" : "Vuelos Redondos a cargo de AEROMEXICO"
+    
+    
+},{
+    "id" : 7,
+    "titleHotel" : "",
+    "promoFechasH2" : "Fechas Disponibles",
+    "imgPromoCalendario" : "../img/icons/calendario.png",
+    "imgPromoPersonas" : "../img/icons/2personas.png",
+    "promoPFechas" : "Del 10 de Mayo al 15 de Julio.",
+    "promoPPersonas" : "2 Personas.",
+    "promoVuelos" : "Vuelos",
+    "imgPromoAerolinea" : "../img/icons/aeromexico.png",
+    "aerolineaP" : "Vuelos Redondos a cargo de AEROMEXICO"
+    
+    
+}
+
+
+
+
+
+
+
+]
