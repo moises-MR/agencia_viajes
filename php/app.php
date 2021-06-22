@@ -2,9 +2,9 @@
 
 
    $servername = "localhost";
-   $username = "u764392054_mundot";
-   $dbpass = "o>wDdz?2I";
-   $dbname = "u764392054_mundotravel";
+   $username = "";
+   $dbpass = "";
+   $dbname = "";
 
 
 //   $servername = "localhost";
